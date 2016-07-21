@@ -1,15 +1,10 @@
 ________________________________________________________________
-Curriculum Vitae : Rachel N. Slaybaugh
+Curriculum Vitae : Jeremy C. Weiss
 ________________________________________________________________
 
-This repository contains my curriculum vitae source files and pdfs
-of two versions: full and summary. 
+This repository contains my curriculum vitae source files. 
 
 In order to build my cv from the source, try pdflatex. You'll need the
 accompanying resume2.cls file.
 
-Conversely, I've included the pdfs so you can download the built versions directly.
-
-Thanks for your interest.
-Thanks also to Katy Huff, from whose repo I forked, and  toTrey Hunner, who
-provided materials I adapted as well.
+Thanks for your interest, and also to Rachel Slaybaugh, Katy Huff, and to Trey Hunner from which this is an adaptation.
